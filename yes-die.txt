@@ -1,0 +1,2 @@
+1 800 200 200
+a philo should die
